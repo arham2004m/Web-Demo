@@ -10,7 +10,7 @@ Untracked(newFiles)->(add)->Unmodified(changesFile)->(add)->Modified->(makeChang
         git add <-file name-> or git add . (for all at once)
 -> commit - git commit -m "some message"
 -> push - upload local repo to remote repo
-        git push origin main
+        "git push origin main"
 # Basic git commands:
 for cloning repo: git clone "https url of repo".
 for chechking status: git status
